@@ -5,3 +5,4 @@ vega
 vega-datasets
 jupyter
 notebook
+nltk
