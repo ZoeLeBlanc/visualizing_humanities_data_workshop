@@ -4,4 +4,4 @@
 
 Welcome to the TAPI workshop on Visualizing Humanities Data 🎉
 
-For our first meeting, please see slides [forthcoming] and our [notebook](https://github.com/ZoeLeBlanc/visualizing_humanities_data_workshop/blob/master/Introduction%20to%20Visualizing%20Humanities%20Data.ipynb). 
+For our first meeting, please see our [slides](https://docs.google.com/presentation/d/1KEKg8PDKcnib63ZM0LwFA6VgSdCXd55CUbVrbmdr52g/edit?usp=sharing) and our [notebook](https://binder.constellate.org/v2/gh/ZoeLeBlanc/visualizing_humanities_data_workshop/master). 
