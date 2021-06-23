@@ -9,3 +9,4 @@ nltk
 htrc-feature-reader
 scikit-learn
 numpy
+jupyter-offlinenotebook
