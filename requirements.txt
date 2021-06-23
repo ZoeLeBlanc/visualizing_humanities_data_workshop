@@ -6,3 +6,6 @@ vega-datasets
 jupyter
 notebook
 nltk
+htrc-feature-reader
+scikit-learn
+numpy
