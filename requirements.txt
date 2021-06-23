@@ -10,3 +10,4 @@ htrc-feature-reader
 scikit-learn
 numpy
 jupyter-offlinenotebook
+beautifulsoup4
