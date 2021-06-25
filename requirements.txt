@@ -1,0 +1,14 @@
+altair
+pandas
+matplotlib
+vega
+vega-datasets
+jupyter
+notebook
+nltk
+htrc-feature-reader
+scikit-learn
+numpy
+jupyter-offlinenotebook
+beautifulsoup4
+spacy
